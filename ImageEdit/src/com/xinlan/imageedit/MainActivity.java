@@ -113,7 +113,7 @@ public class MainActivity extends BaseActivity {
 	private void handleEditorImage(Intent data) {
 		updateMedia(mOutputFilePath);
 		String newFilePath = data.getStringExtra("save_file_path");
-		// System.out.println("newFilePath---->" + newFilePath);
+		 System.out.println("newFilePath---->" + newFilePath);
 		LoadImageTask loadTask = new LoadImageTask();
 		loadTask.execute(newFilePath);
 	}
