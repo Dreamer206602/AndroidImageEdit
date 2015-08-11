@@ -1,4 +1,8 @@
 # AndroidImageEdit
+
+项目已修改 请移步到：https://github.com/siwangqishiq/ImageEditor-Android
+<br/>
+
 AndroidImageEdit  安卓设备上图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作
 <br/>
 <img src="https://github.com/siwangqishiq/AndroidImageEdit/blob/master/ImageEdit/assets/device-2015-04-10-123708.png" width=300 />
